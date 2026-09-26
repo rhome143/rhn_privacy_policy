@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Privacy Policy - Rummy Home Guides</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.65;background:#f5f7fb;color:#202124;margin:0}
+main{max-width:850px;margin:30px auto;padding:20px}
+article{background:#fff;padding:28px;border-radius:16px;box-shadow:0 6px 25px #0001}
+h1{margin-top:0}h2{margin-top:28px}.date{color:#666;font-size:14px}
+.notice{background:#eef6ff;border-left:4px solid #2878e8;padding:12px 15px}
+a{color:#1769e0}
+</style>
+</head>
+<body><main><article>
+<h1>Privacy Policy</h1>
+<p class="date">Effective date: September 26, 2026</p>
+<p>This Privacy Policy explains how <strong>Rummy Home Guides</strong> handles information when you use the app.</p>
+<p class="notice"><strong>Important:</strong> Rummy Home Guides is an informational and guide application. The core app does not require an account or email address.</p>
+
+<h2>1. Information We Collect</h2>
+<p>The app does not intentionally collect personal information such as your name, email address, phone number, contacts, precise location, photos, microphone recordings, or payment information for its core functionality.</p>
+<p>The app uses Firebase Remote Config to retrieve configuration values such as links displayed or opened by the app. These values are used to operate and update app links without requiring an app update.</p>
+
+<h2>2. Information Automatically Processed</h2>
+<p>When the app connects to Firebase or opens third-party websites, standard technical information may be processed by the relevant service providers as part of normal network and service operation. The app does not intentionally use this information to create a personal profile.</p>
+
+<h2>3. Firebase Remote Config</h2>
+<p>Firebase Remote Config is used to retrieve app configuration and remotely managed URLs. No passwords, payment information, or other secret credentials are stored in Remote Config.</p>
+
+<h2>4. Third-Party Websites and Services</h2>
+<p>The app may provide links to third-party websites. When you open a third-party website, that website may collect and process information under its own privacy policy, terms, cookies, and applicable laws. We do not control those practices.</p>
+
+<h2>5. Data Sharing</h2>
+<p>We do not sell your personal information and do not intentionally share personal information with third parties for advertising or profiling. Service providers such as Firebase may process technical information necessary to provide their services.</p>
+
+<h2>6. Data Retention and Deletion</h2>
+<p>The core app does not require an account and does not intentionally maintain a personal user profile. Therefore, there is no in-app user account to delete. Third-party services handle any information they process according to their own policies.</p>
+
+<h2>7. Children's Privacy</h2>
+<p>The app is not directed specifically to children. Users must comply with applicable age requirements and local laws when using the app and any third-party service.</p>
+
+<h2>8. Security</h2>
+<p>We take reasonable measures to protect information handled through the app. Supported network communications use secure transport such as HTTPS where available.</p>
+
+<h2>9. Changes to This Policy</h2>
+<p>We may update this Privacy Policy when the app, its services, or applicable requirements change. The effective date will be updated when material changes are made.</p>
+
+<h2>10. Contact</h2>
+<p><strong>Developer/Company:</strong> [YOUR DEVELOPER OR COMPANY NAME]<br>
+<strong>Privacy contact:</strong> [YOUR PRIVACY EMAIL]</p>
+
+<h2>11. Disclaimer</h2>
+<p>Rummy Home Guides is provided for informational and educational purposes. Third-party websites and services are independent and may have their own terms, policies, age restrictions, and legal requirements. Users are responsible for complying with applicable laws and regulations in their location.</p>
+
+<p style="color:#777;font-size:13px">© 2026 Rummy Home Guides. All rights reserved.</p>
+</article></main></body></html>
